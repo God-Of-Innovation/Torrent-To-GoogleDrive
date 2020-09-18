@@ -4,4 +4,5 @@
 <p>This will only work in Google Colab</p>
 <p>Clone this repo and then upload the .pynb file to your Google Drive and then you can run the file on Google Colab.</p>
 <a href="https://imgur.com/5cYzRDE"><img src="https://i.imgur.com/5cYzRDE.png" title="source: imgur.com" /></a>
-<img src="https://drive.google.com/file/d/1-E34A0LKGDg2O8lPvCBZ7P99NRxI-NjP/view?usp=sharing" alt="Screenshot 3">
+<a href="https://imgur.com/AE3EhD9"><img src="https://i.imgur.com/AE3EhD9.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/hqGERHq"><img src="https://i.imgur.com/hqGERHq.png" title="source: imgur.com" /></a>
